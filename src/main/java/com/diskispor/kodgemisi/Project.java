@@ -16,7 +16,7 @@ public class Project {
 	}
 	
 	private void hide(){
-		System.out.println("hide me");
+		System.out.println("hide erhan");
 	}
 
 
