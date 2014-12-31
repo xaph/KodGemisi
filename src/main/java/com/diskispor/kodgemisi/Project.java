@@ -1,6 +1,9 @@
 package com.diskispor.kodgemisi;
 
 public class Project {
+
+    String mst="denemeeeee";
+
 	
 	String erhan=new String();
 	
@@ -9,5 +12,6 @@ public class Project {
 		
 	   System.out.println("show me");
 	}
+
 
 }
