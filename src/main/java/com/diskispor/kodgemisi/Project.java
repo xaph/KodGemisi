@@ -14,6 +14,10 @@ public class Project {
 		
 	   System.out.println("show me");
 	}
+	
+	private void hide(){
+		System.out.println("hide me");
+	}
 
 
 }
